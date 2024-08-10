@@ -1,4 +1,4 @@
-# Amazon_Reviews_Sentiment_Analysis
+# Amazon Reviews Sentiment Analysis
 
 This is a comprehensive approach to performing sentiment analysis on Amazon fine food reviews using two different techniques: VADER (a lexicon-based approach) and the RoBERTa Pretrained Model (a transformer-based approach). 
 
