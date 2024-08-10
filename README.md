@@ -28,9 +28,9 @@ Visual Analysis: Use pair plots to visually compare the sentiment scores from bo
 Edge Cases: Analyze reviews where the star rating differs significantly from the sentiment scores provided by VADER and RoBERTa. This helps in identifying potential inconsistencies or biases in the models.
 
 ## Dependencies
-NumPy
-Pandas
-Matplotlib
-Seaborn
-NLTK (Natural Language Toolkit)
-Transformers (from Hugging Face)
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- NLTK (Natural Language Toolkit)
+- Transformers (from Hugging Face)
