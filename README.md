@@ -3,7 +3,7 @@
 This is a comprehensive approach to performing sentiment analysis on Amazon fine food reviews using two different techniques: VADER (a lexicon-based approach) and the RoBERTa Pretrained Model (a transformer-based approach). 
 
 ## Dataset
-The dataset used in this sentiment analysis project is a collection of Amazon fine food reviews. It includes various attributes such as the review's unique identifier (Id), the product identifier (ProductId), user identifier (UserId), the user's profile name (ProfileName), helpfulness scores (HelpfulnessNumerator and HelpfulnessDenominator), review score (Score), review time (Time), a summary of the review (Summary), and the full review text (Text).
+The dataset used in this sentiment analysis project is a collection 50K of Amazon fine food reviews. It includes various attributes such as the review's unique identifier (Id), the product identifier (ProductId), user identifier (UserId), the user's profile name (ProfileName), helpfulness scores (HelpfulnessNumerator and HelpfulnessDenominator), review score (Score), review time (Time), a summary of the review (Summary), and the full review text (Text).
 
 ## Workflow
 
